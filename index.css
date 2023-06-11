@@ -1,0 +1,62 @@
+h1,h2 {
+    font-family:monospace;
+    color:rgb(254, 245, 84)
+    
+}
+
+h3 {
+    font-family: monospace;
+    color: rgb(1, 58, 158);
+
+}
+
+body {
+    background-color: rgb(131, 172, 131);
+
+}
+
+@font-face {font-family: DoriaKnezovic;
+src: url(Dokumenti/DoriaKnezovic.ttf);
+
+}
+
+.spanovi {
+    color: rgb(0, 0, 0);
+
+}
+
+span {
+    background-color: rgb(224, 235, 121);
+}
+
+.paragraf1 {
+    color:black ;
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+    width: 255px;
+    padding: 5px;
+    line-height: 15px;
+    border: 1px solid #000000;
+    border-radius: 8px;
+}
+
+.paragraf2 {
+    color:black ;
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    padding: 5px;
+    line-height: 35px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+a:link {
+    color:black ;
+    font-family: monospace;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    line-height: 45px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
